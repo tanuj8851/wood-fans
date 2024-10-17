@@ -56,9 +56,3 @@ Screenshots of the Home page on different devices are given below.
 - [Address Page](./public/screenshots/detailsPage.png)
 - [Payment Page](./public/screenshots/payment.png)
 
-## Contributors
-
-- Ashutosh Verma : [LinkedIn](https://www.linkedin.com/in/ashutosh-verma-6420b4272/) [Github](https://github.com/1ashutoshverma/)
-- Divyanshu Rawat : [LinkedIn]() [Github]()
-- Shubham Deshmukh : [LinkedIn]() [Github]()
-- Shivam Pathak : [LinkedIn]() [Github]()
